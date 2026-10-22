@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-fibocameraangles"
+description = "Interactive 3D camera-angle control for Fibo 2.0 Edit in ComfyUI: drag the camera around the subject and get a ready-to-use camera instruction."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/edvlos/ComfyUI-FiboCameraAngles"
+
+[tool.comfy]
+PublisherId = "edvlos"
+DisplayName = "Fibo Camera Angles"
+Icon = ""
